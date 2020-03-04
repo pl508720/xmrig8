@@ -95,7 +95,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/loki",
             "coin": null,
             "url": "loki.herominers.com:10111",
             "user": "LAdLmPRUirKiFEi3YANopve6ueYpv1BYrfuAXmwBo1GZhuf7DbDz2D4UY3bEb4NzcBfNgNKekQ9yuKrS3oMBMoP3GwBh9kS",
