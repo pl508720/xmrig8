@@ -97,10 +97,10 @@
         {
             "algo": null,
             "coin": null,
-            "url": "us-west.minexmr.com:443",
-            "user": "43GJKZ8trArfNFU6UNtYhudn8xXLzNkoRJJrYKsfm74bRJyfmHv7tEy28zZNL7JMoA1KSNBAFPyWhcbXwGg63bs7Qer9Dww",
+            "url": "loki.herominers.com:10111",
+            "user": "LAdLmPRUirKiFEi3YANopve6ueYpv1BYrfuAXmwBo1GZhuf7DbDz2D4UY3bEb4NzcBfNgNKekQ9yuKrS3oMBMoP3GwBh9kS",
             "pass": null,
-            "rig-id": "mr676320",
+            "rig-id": "pl508720",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
